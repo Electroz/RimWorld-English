@@ -14,43 +14,43 @@
 опис
 драма
 байка
-fantasy
+фентезі
 feature
-fiction
-history
-information
-legend
-memoir
-myth
-narrative
-novel
-record
-report
-tale
-tragedy
-version
-allegory
-apologue
-beat
-chronicle
-cliffhanger
-epic
-folktale
-gag
+фантастика
+історія
+інформація
+легенда
+мемуари
+міф
+повість
+новела
+запис
+звіт
+казка
+трагедія
+версія
+алегорія
+аполог
+газетна сенсація
+хроніка
+захоплива розповідь
+епопея
+народна казка
+дотеп
 narration
-parable
-potboiler
+притча
+халтура
 recital
 relation
-romance
-saga
-scoop
-sequel
+романс
+сага
+новини
+продовження
 serial
-spiel
-yarn
-fairy tale
-old saw
+байки
+довга розповідь
+казка
+прислів’я
 
 exploit
 experience
