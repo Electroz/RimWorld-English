@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MoveSpeed.label>move speed</MoveSpeed.label>
-  <MoveSpeed.description>Speed of movement through the world in cells per second.</MoveSpeed.description>
-  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+  <MoveSpeed.label>швидкість руху</MoveSpeed.label>
+  <MoveSpeed.description>Швидкість руху по клітинках у світі за секунду.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0} к\с</MoveSpeed.formatString>
 
-  <MentalBreakThreshold.label>mental break threshold</MentalBreakThreshold.label>
-  <MentalBreakThreshold.description>As long as someone's mood is below this level, they are in danger of having a mental break.</MentalBreakThreshold.description>
+  <MentalBreakThreshold.label>поріг психічного зриву</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>Чим довше чийсь настрій буде триматися нижче даної планки, тим більший буде шанс психічного розладу.</MentalBreakThreshold.description>
 
-  <PsychicSensitivity.label>psychic sensitivity</PsychicSensitivity.label>
-  <PsychicSensitivity.description>Multiplier on the impact of psychic phenomena affecting this person.</PsychicSensitivity.description>
+  <PsychicSensitivity.label>психічна чутливість</PsychicSensitivity.label>
+  <PsychicSensitivity.description>Множник впливу психічних явищ на цю істоту.</PsychicSensitivity.description>
 
-  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
-  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this character.</ToxicSensitivity.description>
+  <ToxicSensitivity.label>чутливість до токсинів</ToxicSensitivity.label>
+  <ToxicSensitivity.description>Множник токсичного речовин на цю істоту.</ToxicSensitivity.description>
 
-  <GlobalLearningFactor.label>global learning factor</GlobalLearningFactor.label>
-  <GlobalLearningFactor.description>Global learning efficiency for all skills.</GlobalLearningFactor.description>
+  <GlobalLearningFactor.label>глобальний фактор навчання</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>Глобальна ефективність покращення навичок.</GlobalLearningFactor.description>
 
-  <EatingSpeed.label>eating speed</EatingSpeed.label>
-  <EatingSpeed.description>Multiplier on eating speed.</EatingSpeed.description>
+  <EatingSpeed.label>швидкість харчування</EatingSpeed.label>
+  <EatingSpeed.description>Множник на швидкість харчування.</EatingSpeed.description>
 
-  <ComfyTemperatureMin.label>Minimum comfortable temperature</ComfyTemperatureMin.label>
-  <ComfyTemperatureMin.description>Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die.</ComfyTemperatureMin.description>
+  <ComfyTemperatureMin.label>Мінімальна комфортна температура</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>Нижче за цю температуру персонажі будуть незадоволені. За значно нижчої температури вони будуть отримувати гіпотермію, переохолодження та врешті-решт помруть.</ComfyTemperatureMin.description>
 
-  <ComfyTemperatureMax.label>Maximum comfortable temperature</ComfyTemperatureMax.label>
-  <ComfyTemperatureMax.description>Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die.</ComfyTemperatureMax.description>
+  <ComfyTemperatureMax.label>Максимальна комфортна температура</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>Вище за цю температуру персонажі будуть незадоволені. За значно вищої температури вони будуть отримувати тепловий удар та врешті-решт помруть.</ComfyTemperatureMax.description>
 
-  <ImmunityGainSpeed.label>immunity gain speed</ImmunityGainSpeed.label>
-  <ImmunityGainSpeed.description>Speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity.</ImmunityGainSpeed.description>
+  <ImmunityGainSpeed.label>швидкість посилення імунітета</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>Швидкість, з якою цей персонаж посилює свій імунітет до хвороб. Якщо вона буде надто повільною, то істота помре від хвороби перш ніж здобуде імунітет.</ImmunityGainSpeed.description>
 
-  <CarryingCapacity.label>carrying capacity</CarryingCapacity.label>
-  <CarryingCapacity.description>The amount of stuff this creature can carry in its hands, mouth, or other manipulators.</CarryingCapacity.description>
+  <CarryingCapacity.label>вантажопідйомність</CarryingCapacity.label>
+  <CarryingCapacity.description>Кількість матеріалу, що ця істота може нести в своїх руках, у роті або іншими методами.</CarryingCapacity.description>
 
-  <MeatAmount.label>meat amount</MeatAmount.label>
-  <MeatAmount.description>The amount of meat you will get from butchering this creature.</MeatAmount.description>
+  <MeatAmount.label>кількість м'яса</MeatAmount.label>
+  <MeatAmount.description>Кількість м'яса, що отримаєте від обробки цієї істоти.</MeatAmount.description>
 
-  <LeatherAmount.label>leather amount</LeatherAmount.label>
-  <LeatherAmount.description>The amount of leather you will get from butchering this creature.</LeatherAmount.description>
+  <LeatherAmount.label>кількість шкіри</LeatherAmount.label>
+  <LeatherAmount.description>Кількість шкіри, що отримаєте від обробки цієї істоти.</LeatherAmount.description>
 
-  <MinimumHandlingSkill.label>minimum handling skill</MinimumHandlingSkill.label>
-  <MinimumHandlingSkill.description>This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals.</MinimumHandlingSkill.description>
+  <MinimumHandlingSkill.label>мінімальний рівень приручення</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>Це істота не може бути приручена, навчена, або отримувати накази, якщо навичка буде нижче ніж у тварини.</MinimumHandlingSkill.description>
 
-  <PainShockThreshold.label>pain shock threshold</PainShockThreshold.label>
-  <PainShockThreshold.description>The point at which this creature is downed from pain.</PainShockThreshold.description>
+  <PainShockThreshold.label>поріг больового шоку</PainShockThreshold.label>
+  <PainShockThreshold.description>Точка, в якій ця істота зомліє від болю.</PainShockThreshold.description>
 
 
 </LanguageData>
