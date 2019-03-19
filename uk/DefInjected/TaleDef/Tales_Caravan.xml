@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CaravanFormed.label>caravan formed</CaravanFormed.label>
-  <CaravanFormed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] departing for adventure</CaravanFormed.rulePack.rulesStrings.0>
-  <CaravanFormed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] forming a caravan</CaravanFormed.rulePack.rulesStrings.1>
-  <CaravanFormed.rulePack.rulesStrings.2>image->[pawn_nameFull] striding forward purposefully [circumstance_group]</CaravanFormed.rulePack.rulesStrings.2>
-  <CaravanFormed.rulePack.rulesStrings.3>image->[pawn_nameFull] looking towards the horizon [circumstance_group]</CaravanFormed.rulePack.rulesStrings.3>
-  <CaravanFormed.rulePack.rulesStrings.4>image->[pawn_nameFull] packing supplies for a journey [circumstance_group]</CaravanFormed.rulePack.rulesStrings.4>
-  <CaravanFormed.rulePack.rulesStrings.5>image->[pawn_nameFull] planning a journey [circumstance_group]</CaravanFormed.rulePack.rulesStrings.5>
-  <CaravanFormed.rulePack.rulesStrings.6>circumstance_phrase->and equipped for a fight</CaravanFormed.rulePack.rulesStrings.6>
-  <CaravanFormed.rulePack.rulesStrings.7>circumstance_phrase->and equipped for survival</CaravanFormed.rulePack.rulesStrings.7>
-  <CaravanFormed.rulePack.rulesStrings.8>circumstance_phrase->and equipped for exploration</CaravanFormed.rulePack.rulesStrings.8>
-  <CaravanFormed.rulePack.rulesStrings.9>circumstance_phrase->with an eager look in [pawn_possessive] eyes</CaravanFormed.rulePack.rulesStrings.9>
-  <CaravanFormed.rulePack.rulesStrings.10>circumstance_phrase->with a [adjective] look in [pawn_possessive] eyes</CaravanFormed.rulePack.rulesStrings.10>
-  <CaravanFormed.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [ally]s watch the preparations.</CaravanFormed.rulePack.rulesStrings.11>
-  <CaravanFormed.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [ally]s help with the preparations.</CaravanFormed.rulePack.rulesStrings.12>
-  <CaravanFormed.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [enemy]s shrink away from the scene.</CaravanFormed.rulePack.rulesStrings.13>
-  <CaravanFormed.rulePack.rulesStrings.14>desc_sentence->A [terrainfeature] is visible in the distance.</CaravanFormed.rulePack.rulesStrings.14>
-  <CaravanFormed.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase] [outlander]s watch from a distance.</CaravanFormed.rulePack.rulesStrings.15>
-  <CaravanFormed.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] [animal]s wander peacefully.</CaravanFormed.rulePack.rulesStrings.16>
+  <CaravanFormed.label>караван готовий</CaravanFormed.label>
+  <CaravanFormed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] вирушає у пригоди</CaravanFormed.rulePack.rulesStrings.0>
+  <CaravanFormed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] збирає караван</CaravanFormed.rulePack.rulesStrings.1>
+  <CaravanFormed.rulePack.rulesStrings.2>image->[pawn_nameFull] цілеспрямовано прямує до [circumstance_group]</CaravanFormed.rulePack.rulesStrings.2>
+  <CaravanFormed.rulePack.rulesStrings.3>image->[pawn_nameFull] дивиться у бік [circumstance_group]</CaravanFormed.rulePack.rulesStrings.3>
+  <CaravanFormed.rulePack.rulesStrings.4>image->[pawn_nameFull] збирає припаси для подорожі до [circumstance_group]</CaravanFormed.rulePack.rulesStrings.4>
+  <CaravanFormed.rulePack.rulesStrings.5>image->[pawn_nameFull] планує подорож до [circumstance_group]</CaravanFormed.rulePack.rulesStrings.5>
+  <CaravanFormed.rulePack.rulesStrings.6>circumstance_phrase->підготувався до бою</CaravanFormed.rulePack.rulesStrings.6>
+  <CaravanFormed.rulePack.rulesStrings.7>circumstance_phrase->підготувався до виживання</CaravanFormed.rulePack.rulesStrings.7>
+  <CaravanFormed.rulePack.rulesStrings.8>circumstance_phrase->підготувався до розвідки</CaravanFormed.rulePack.rulesStrings.8>
+  <CaravanFormed.rulePack.rulesStrings.9>circumstance_phrase->прагне подивитися на [pawn_possessive] очі</CaravanFormed.rulePack.rulesStrings.9>
+  <CaravanFormed.rulePack.rulesStrings.10>circumstance_phrase->з [adjective] дивиться в очі [pawn_possessive]</CaravanFormed.rulePack.rulesStrings.10>
+  <CaravanFormed.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [ally] дивляться на підготовку.</CaravanFormed.rulePack.rulesStrings.11>
+  <CaravanFormed.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [ally] допомагають з підготовкою.</CaravanFormed.rulePack.rulesStrings.12>
+  <CaravanFormed.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [enemy] ідуть геть від сцени.</CaravanFormed.rulePack.rulesStrings.13>
+  <CaravanFormed.rulePack.rulesStrings.14>desc_sentence->Видніється [terrainfeature].</CaravanFormed.rulePack.rulesStrings.14>
+  <CaravanFormed.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase] [outlander] спостерігають з відстані.</CaravanFormed.rulePack.rulesStrings.15>
+  <CaravanFormed.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] [animal] мирно бродять.</CaravanFormed.rulePack.rulesStrings.16>
 
-  <CaravanFled.label>caravan fled</CaravanFled.label>
-  <CaravanFled.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] fleeing for [pawn_possessive] life</CaravanFled.rulePack.rulesStrings.0>
-  <CaravanFled.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] escaping danger</CaravanFled.rulePack.rulesStrings.1>
-  <CaravanFled.rulePack.rulesStrings.2>tale_noun->[pawn_nameShortDef] narrowly escaping danger</CaravanFled.rulePack.rulesStrings.2>
-  <CaravanFled.rulePack.rulesStrings.3>tale_noun->[pawn_nameShortDef] chased away by enemies</CaravanFled.rulePack.rulesStrings.3>
-  <CaravanFled.rulePack.rulesStrings.4>image->[pawn_nameFull] running frantically [circumstance_group]</CaravanFled.rulePack.rulesStrings.4>
-  <CaravanFled.rulePack.rulesStrings.5>image->[pawn_nameFull] sprinting [circumstance_group]</CaravanFled.rulePack.rulesStrings.5>
-  <CaravanFled.rulePack.rulesStrings.6>image->[pawn_nameFull] tucked behind a [terrainfeature], hiding [circumstance_group]</CaravanFled.rulePack.rulesStrings.6>
-  <CaravanFled.rulePack.rulesStrings.7>image->[pawn_nameFull] putting up a fighting retreat [circumstance_group]</CaravanFled.rulePack.rulesStrings.7>
+  <CaravanFled.label>караван рушив</CaravanFled.label>
+  <CaravanFled.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] рятуються від [pawn_possessive] життя</CaravanFled.rulePack.rulesStrings.0>
+  <CaravanFled.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] втікає від небезпеки</CaravanFled.rulePack.rulesStrings.1>
+  <CaravanFled.rulePack.rulesStrings.2>tale_noun->[pawn_nameShortDef] дивом вдалося уникнути небезпеки</CaravanFled.rulePack.rulesStrings.2>
+  <CaravanFled.rulePack.rulesStrings.3>tale_noun->[pawn_nameShortDef] переслідуються ворогами</CaravanFled.rulePack.rulesStrings.3>
+  <CaravanFled.rulePack.rulesStrings.4>image->[pawn_nameFull] відчайдушно втікає до [circumstance_group]</CaravanFled.rulePack.rulesStrings.4>
+  <CaravanFled.rulePack.rulesStrings.5>image->[pawn_nameFull] біжить до [circumstance_group]</CaravanFled.rulePack.rulesStrings.5>
+  <CaravanFled.rulePack.rulesStrings.6>зображення->[pawn_nameFull] сховалися за [terrainfeature], ховаючись від [circumstance_group]</CaravanFled.rulePack.rulesStrings.6>
+  <CaravanFled.rulePack.rulesStrings.7>image->[pawn_nameFull] вирішує зробити тактичний відступ [circumstance_group]</CaravanFled.rulePack.rulesStrings.7>
   <CaravanFled.rulePack.rulesStrings.8>image->[pawn_nameFull] casually strolling away [circumstance_group]</CaravanFled.rulePack.rulesStrings.8>
   <CaravanFled.rulePack.rulesStrings.9>circumstance_phrase->as [quantity_adjphrase] [enemy]s chase</CaravanFled.rulePack.rulesStrings.9>
   <CaravanFled.rulePack.rulesStrings.10>circumstance_phrase->while [quantity_adjphrase] [enemy]s search</CaravanFled.rulePack.rulesStrings.10>
