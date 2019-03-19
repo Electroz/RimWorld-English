@@ -3,46 +3,46 @@
 
   <!-- Anesthetize -->
 
-  <Anesthetize.label>anesthetize</Anesthetize.label>
-  <Anesthetize.description>Makes a creature unconscious by administering an anesthetic.</Anesthetize.description>
-  <Anesthetize.jobString>Anesthetizing.</Anesthetize.jobString>
+  <Anesthetize.label>знеболити</Anesthetize.label>
+  <Anesthetize.description>Робить істоту без свідомості шляхом введення анестетика.</Anesthetize.description>
+  <Anesthetize.jobString>Знеболює.</Anesthetize.jobString>
 
 
   <!-- Euthanasia -->
 
-  <Euthanize.label>euthanize by cut</Euthanize.label>
-  <Euthanize.description>Euthanizes a creature by cutting.</Euthanize.description>
-  <Euthanize.jobString>Euthanizing by cutting.</Euthanize.jobString>
+  <Euthanize.label>евтаназія</Euthanize.label>
+  <Euthanize.description>Приспати істоту.</Euthanize.description>
+  <Euthanize.jobString>Проводить евтаназію.</Euthanize.jobString>
 
-  <ShutDownMechanoid.label>shut down</ShutDownMechanoid.label>
-  <ShutDownMechanoid.description>Shuts down a mechanoid.</ShutDownMechanoid.description>
-  <ShutDownMechanoid.jobString>Shutting down mechanoid.</ShutDownMechanoid.jobString>
+  <ShutDownMechanoid.label>вимкнути</ShutDownMechanoid.label>
+  <ShutDownMechanoid.description>Завершує роботу механоїда.</ShutDownMechanoid.description>
+  <ShutDownMechanoid.jobString>Виключає механоїда.</ShutDownMechanoid.jobString>
 
 
   <!-- removing hediffs (e.g. diseases) -->
 
-  <ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
-  <ExciseCarcinoma.description>Excises carcinoma.</ExciseCarcinoma.description>
-  <ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  <ExciseCarcinoma.label>видалення карциноми</ExciseCarcinoma.label>
+  <ExciseCarcinoma.description>Видаляє карциному.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.jobString>Проводить видалення карциноми.</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} успішно видалив карциному в персонажа {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
 
 
   <!-- removing body parts -->
 
-  <RemoveBodyPart.label>remove part</RemoveBodyPart.label>
-  <RemoveBodyPart.description>Removes body part.</RemoveBodyPart.description>
-  <RemoveBodyPart.jobString>Removing body part.</RemoveBodyPart.jobString>
+  <RemoveBodyPart.label>ампутація кінцівки</RemoveBodyPart.label>
+  <RemoveBodyPart.description>Видаляє кінцівку.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>Ампутує кінцівку.</RemoveBodyPart.jobString>
 
-  <RemoveMechanoidBodyPart.label>remove part</RemoveMechanoidBodyPart.label>
-  <RemoveMechanoidBodyPart.description>Removes body part.</RemoveMechanoidBodyPart.description>
-  <RemoveMechanoidBodyPart.jobString>Removing body part.</RemoveMechanoidBodyPart.jobString>
+  <RemoveMechanoidBodyPart.label>демонтаж деталі</RemoveMechanoidBodyPart.label>
+  <RemoveMechanoidBodyPart.description>Демонтує деталь з живого механоїда.</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>Демонтує деталь.</RemoveMechanoidBodyPart.jobString>
 
 
   <!-- special administer -->
 
-  <AdministerMechSerumHealer.label>administer healer mech serum</AdministerMechSerumHealer.label>
-  <AdministerMechSerumHealer.description>Administers healer mech serum.</AdministerMechSerumHealer.description>
-  <AdministerMechSerumHealer.jobString>Administering healer mech serum.</AdministerMechSerumHealer.jobString>
+  <AdministerMechSerumHealer.label>призначити сиворотку відновлення</AdministerMechSerumHealer.label>
+  <AdministerMechSerumHealer.description>Призначає сиворотку відновлення.</AdministerMechSerumHealer.description>
+  <AdministerMechSerumHealer.jobString>Дає сиворотку відновлення.</AdministerMechSerumHealer.jobString>
 
 
 </LanguageData>
