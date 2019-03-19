@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NoInteraction.label>no interaction</NoInteraction.label>
-  <Chat.label>friendly chat</Chat.label>
-  <AttemptRecruit.label>chat and recruit</AttemptRecruit.label>
-  <Release.label>release</Release.label>
-  <Execution.label>execution</Execution.label>
+  <NoInteraction.label>без взаємодії</NoInteraction.label>
+  <Chat.label>дружня бесіда</Chat.label>
+  <AttemptRecruit.label>спілкування і рекрутинг</AttemptRecruit.label>
+  <Release.label>звільнити</Release.label>
+  <Execution.label>стратити</Execution.label>
 
 
 </LanguageData>
