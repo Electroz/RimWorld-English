@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Cassandra.label>Cassandra Classic</Cassandra.label>
-  <Cassandra.description>Cassandra creates story events on a steadily-increasing curve of challenge and tension.</Cassandra.description>
+  <Cassandra.label>Класична Касандра</Cassandra.label>
+  <Cassandra.description>Касандра створює події постійно підвищуючи рівень їх складності та напруженості.</Cassandra.description>
 
-  <Phoebe.label>Phoebe Chillax</Phoebe.label>
-  <Phoebe.description>Phoebe gives lots of time between disasters to relax and build your colony. But beware - at high difficulties, she'll hit as hard as anyone.</Phoebe.description>
+  <Phoebe.label>Розслаблена Фібі</Phoebe.label>
+  <Phoebe.description>Вона дає вам багато часу між лихами, щоби відпочити і розбудовувати вашу колонію. Проте будьте обережні, на високих рівнях складності вона б'є сильніше за всіх.</Phoebe.description>
 
-  <Randy.label>Randy Random</Randy.label>
-  <Randy.description>Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.</Randy.description>
+  <Randy.label>Випадковий Ренді</Randy.label>
+  <Randy.description>Йому начхати на правила. Він робить випадкові події і зовсім не цікавиться, чи буде у вас шанс подолати їх, чи ні… Уся п'єса належить йому.</Randy.description>
 
-  <Tutor.label>Tutor Hidden</Tutor.label>
+  <Tutor.label>Прихований оповідач</Tutor.label>
 
 
 </LanguageData>
