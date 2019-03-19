@@ -1,13 +1,13 @@
-Bermuda Islands
-Fernando de Noronha
-Lucayan Archipelago
-The Bahamas
-Turks and Caicos Islands
-Magdalen Islands
-Outer Lands
-Saint Peter and Paul Rocks
-South Sandwich Islands
-Tierra del Fuego
-Falkland Islands
-Canadian Arctic Archipelago
-Florida Keys
+Бермудські острови
+Фернанду-ді-Норонья
+Архіпелаг Лукаян
+Багамські острови
+Острови Тюркс і Кайкос
+Магдаленські Острови
+Зовнішні землі
+Скелі Святих Петра і Павла
+Південні Сандвічеві острови
+Вогняна земля
+Фолклендські Острови
+Канадський Арктичний Архіпелаг
+Ключі Флориди
