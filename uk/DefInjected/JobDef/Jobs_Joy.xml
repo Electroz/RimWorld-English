@@ -3,30 +3,30 @@
 
   <!-- Meditative -->
 
-  <Skygaze.reportString>skygazing.</Skygaze.reportString>
-  <Meditate.reportString>meditating.</Meditate.reportString>
-  <Pray.reportString>praying.</Pray.reportString>
-  <GoForWalk.reportString>going for a walk.</GoForWalk.reportString>
-  <BuildSnowman.reportString>building snowman.</BuildSnowman.reportString>
-  <VisitGrave.reportString>visiting grave.</VisitGrave.reportString>
-  <ViewArt.reportString>viewing art.</ViewArt.reportString>
+  <Skygaze.reportString>споглядає на небо.</Skygaze.reportString>
+  <Meditate.reportString>медитує.</Meditate.reportString>
+  <Pray.reportString>молиться.</Pray.reportString>
+  <GoForWalk.reportString>прогулюється.</GoForWalk.reportString>
+  <BuildSnowman.reportString>будує сніговика.</BuildSnowman.reportString>
+  <VisitGrave.reportString>відвідує могилу.</VisitGrave.reportString>
+  <ViewArt.reportString>насолоджується мистецтвом.</ViewArt.reportString>
 
 
   <!-- Social -->
 
-  <SocialRelax.reportString>relaxing socially.</SocialRelax.reportString>
-  <VisitSickPawn.reportString>cheering up patient TargetA.</VisitSickPawn.reportString>
+  <SocialRelax.reportString>соціально відпочиває.</SocialRelax.reportString>
+  <VisitSickPawn.reportString>підбадьорює TargetA.</VisitSickPawn.reportString>
 
 
   <!-- Building interaction -->
 
-  <PlayHorseshoes.reportString>playing horseshoes.</PlayHorseshoes.reportString>
-  <PlayHoopstone.reportString>playing hoopstone.</PlayHoopstone.reportString>
-  <PlayChess.reportString>playing chess.</PlayChess.reportString>
-  <PlayBilliards.reportString>playing billiards.</PlayBilliards.reportString>
-  <PlayPoker.reportString>playing poker.</PlayPoker.reportString>
-  <WatchTelevision.reportString>watching television.</WatchTelevision.reportString>
-  <UseTelescope.reportString>using telescope.</UseTelescope.reportString>
+  <PlayHorseshoes.reportString>грає в підкови.</PlayHorseshoes.reportString>
+  <PlayHoopstone.reportString>грає з кільцем.</PlayHoopstone.reportString>
+  <PlayChess.reportString>грає в шахи.</PlayChess.reportString>
+  <PlayBilliards.reportString>грає в більярд.</PlayBilliards.reportString>
+  <PlayPoker.reportString>грає у покер.</PlayPoker.reportString>
+  <WatchTelevision.reportString>переглядає телевізор.</WatchTelevision.reportString>
+  <UseTelescope.reportString>дивиться в телескоп.</UseTelescope.reportString>
 
 
 </LanguageData>
