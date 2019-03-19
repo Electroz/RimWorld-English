@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MedicalTendSpeed.label>medical tend speed</MedicalTendSpeed.label>
-  <MedicalTendSpeed.description>Speed at which the character tends to wounds and illnesses as a doctor.</MedicalTendSpeed.description>
+  <MedicalTendSpeed.label>швидкість медичного огляду</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Швидкість, з якою персонаж оглядає рани і хвороби, діючи як лікар.</MedicalTendSpeed.description>
 
-  <MedicalTendQuality.label>medical tend quality</MedicalTendQuality.label>
-  <MedicalTendQuality.description>Quality of tending given to patients when acting as a doctor.</MedicalTendQuality.description>
+  <MedicalTendQuality.label>якість медичного нагляду</MedicalTendQuality.label>
+  <MedicalTendQuality.description>Якість надання пацієнтам медичного огляду, діючи в якості лікаря.</MedicalTendQuality.description>
 
-  <MedicalOperationSpeed.label>medical operation speed</MedicalOperationSpeed.label>
-  <MedicalOperationSpeed.description>Speed at which the character performs medical operations.</MedicalOperationSpeed.description>
+  <MedicalOperationSpeed.label>швидкість операції</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.description>Швидкість, з якою персонаж виконує медичні операції.</MedicalOperationSpeed.description>
 
-  <MedicalSurgerySuccessChance.label>medical surgery success chance</MedicalSurgerySuccessChance.label>
-  <MedicalSurgerySuccessChance.description>The chance that a character will perform surgery successfully. The success chance is also affected by the bed and area of the operation, medicine used, and the difficulty of the surgery.</MedicalSurgerySuccessChance.description>
+  <MedicalSurgerySuccessChance.label>шанс на успішну операцію</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>Шанс, за якої персонаж може провести успішну операцію. Шанс на успіх залежить від ліжка і локації для операції, використаних ліків і складності операції.</MedicalSurgerySuccessChance.description>
 
 
 </LanguageData>
