@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Consciousness.label>consciousness</Consciousness.label>
-  <Consciousness.labelMechanoids>Data processing</Consciousness.labelMechanoids>
+  <Consciousness.label>свідомість</Consciousness.label>
+  <Consciousness.labelMechanoids>Обробка даних</Consciousness.labelMechanoids>
 
-  <Moving.label>moving</Moving.label>
-  <Manipulation.label>manipulation</Manipulation.label>
+  <Moving.label>рухливість</Moving.label>
+  <Manipulation.label>фізична діяльність</Manipulation.label>
 
-  <Talking.label>talking</Talking.label>
-  <Talking.labelMechanoids>Communication</Talking.labelMechanoids>
+  <Talking.label>спілкування</Talking.label>
+  <Talking.labelMechanoids>Комунікація</Talking.labelMechanoids>
 
-  <Eating.label>eating</Eating.label>
-  <Sight.label>sight</Sight.label>
-  <Hearing.label>hearing</Hearing.label>
-  <Breathing.label>breathing</Breathing.label>
-  <BloodFiltration.label>blood filtration</BloodFiltration.label>
-  <BloodPumping.label>blood pumping</BloodPumping.label>
-  <Metabolism.label>metabolism</Metabolism.label>
+  <Eating.label>здатність їсти</Eating.label>
+  <Sight.label>зір</Sight.label>
+  <Hearing.label>слух</Hearing.label>
+  <Breathing.label>дихання</Breathing.label>
+  <BloodFiltration.label>фільтрація крові</BloodFiltration.label>
+  <BloodPumping.label>тиск крові</BloodPumping.label>
+  <Metabolism.label>метаболізм</Metabolism.label>
 
 
 </LanguageData>
