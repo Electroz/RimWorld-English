@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GameMapCamera.label>camera</GameMapCamera.label>
-  <GameMapCamera.description>Controls for the camera.</GameMapCamera.description>
+  <GameMapCamera.label>камера</GameMapCamera.label>
+  <GameMapCamera.description>Керування камерою.</GameMapCamera.description>
 
-  <Game.label>in-game global</Game.label>
-  <Game.description>Colony mode controls that apply in most situations.</Game.description>
+  <Game.label>у грі глобальної</Game.label>
+  <Game.description>Режими управління колонією, які застосовуються в більшості випадків.</Game.description>
 
-  <SelectionMisc.label>misc</SelectionMisc.label>
-  <SelectionMisc.description>Generic controls that are re-used by many items and objects throughout the game.</SelectionMisc.description>
+  <SelectionMisc.label>різне</SelectionMisc.label>
+  <SelectionMisc.description>Загальні елементи керування, які повторно використовуються багатьма предметами та об'єктами протягом всієї гри.</SelectionMisc.description>
 
-  <SelectionSpecial.label>special</SelectionSpecial.label>
-  <SelectionSpecial.description>Special controls reserved for specific functions on specific objects.</SelectionSpecial.description>
+  <SelectionSpecial.label>спеціальні</SelectionSpecial.label>
+  <SelectionSpecial.description>Спеціальне керування зарезервоване для певних функцій на конкретних об'єктах.</SelectionSpecial.description>
 
-  <Architect.label>architect</Architect.label>
-  <Architect.description>General-use controls for the architect mode menu.</Architect.description>
+  <Architect.label>архітектор</Architect.label>
+  <Architect.description>Загальні вказівки для меню архітектури.</Architect.description>
 
-  <MainTabs.label>main tabs</MainTabs.label>
-  <MainTabs.description>Controls for the main tabs.</MainTabs.description>
+  <MainTabs.label>основні вкладки</MainTabs.label>
+  <MainTabs.description>Керування основними вкладками.</MainTabs.description>
 
-  <Modifiers.label>modifiers</Modifiers.label>
-  <Modifiers.description>Controls used to modify other actions.</Modifiers.description>
+  <Modifiers.label>модифікатори</Modifiers.label>
+  <Modifiers.description>Керування для змінення %Faction.</Modifiers.description>
 
-  <Development.label>developer tools</Development.label>
-  <Development.description>Controls for developers and modders. Active in development mode only.</Development.description>
+  <Development.label>інструменти для розробників</Development.label>
+  <Development.description>Керування для розробників та моддерів. Активний лише в режимі розробки.</Development.description>
 
 
 </LanguageData>
