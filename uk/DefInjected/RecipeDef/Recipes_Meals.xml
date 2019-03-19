@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookMealSimple.label>cook simple meal</CookMealSimple.label>
-  <CookMealSimple.description>Cooks a straightforward meal from one ingredient.</CookMealSimple.description>
-  <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>
+  <CookMealSimple.label>приготувати звичайну страву</CookMealSimple.label>
+  <CookMealSimple.description>Приготувати звичайне блюдо з одного інгредієнта.</CookMealSimple.description>
+  <CookMealSimple.jobString>Готує звичайну страву.</CookMealSimple.jobString>
 
-  <CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>
-  <CookMealSimpleCampfire.description>Cooks a straightforward meal from one ingredient.</CookMealSimpleCampfire.description>
-  <CookMealSimpleCampfire.jobString>Cooking simple meal.</CookMealSimpleCampfire.jobString>
+  <CookMealSimpleCampfire.label>приготувати звичайну страву</CookMealSimpleCampfire.label>
+  <CookMealSimpleCampfire.description>Приготувати звичайне блюдо з одного інгредієнта.</CookMealSimpleCampfire.description>
+  <CookMealSimpleCampfire.jobString>Готує звичайну страву.</CookMealSimpleCampfire.jobString>
 
-  <CookMealFine.label>cook fine meal</CookMealFine.label>
-  <CookMealFine.description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients.</CookMealFine.description>
-  <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>
+  <CookMealFine.label>приготувати чудову страву</CookMealFine.label>
+  <CookMealFine.description>Приготувати комплексне блюдо з сирого м'яса і рослин.</CookMealFine.description>
+  <CookMealFine.jobString>Готує чудову страву.</CookMealFine.jobString>
 
-  <CookMealLavish.label>cook lavish meal</CookMealLavish.label>
-  <CookMealLavish.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>
-  <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>
+  <CookMealLavish.label>приготувати делікатес</CookMealLavish.label>
+  <CookMealLavish.description>Приготувати дуже складне блюдо з сирого м'яса і рослин. Потребує великої кількості інгредієнтів.</CookMealLavish.description>
+  <CookMealLavish.jobString>Готує делікатес.</CookMealLavish.jobString>
 
-  <CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>
-  <CookMealSurvival.description>Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealSurvival.description>
-  <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
+  <CookMealSurvival.label>приготувати консерви</CookMealSurvival.label>
+  <CookMealSurvival.description>Приготувати консервоване блюдо з сирого м'яса і рослин. Потребує великої кількості інгредієнтів.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>Готує консерви.</CookMealSurvival.jobString>
 
 
 </LanguageData>
