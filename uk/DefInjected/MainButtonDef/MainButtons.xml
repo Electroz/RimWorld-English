@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Inspect.label>inspect</Inspect.label>
+  <Inspect.label>перевірити</Inspect.label>
 
-  <Architect.label>architect</Architect.label>
-  <Architect.description>Designate where and what colonists should build, farm, store items, and so on.</Architect.description>
+  <Architect.label>архітектура</Architect.label>
+  <Architect.description>У цій вкладці можна позначити де і що будуть будувати або робити колоністи: будувати, створювати ферми, склади і тд.</Architect.description>
 
-  <Work.label>work</Work.label>
-  <Work.description>Choose which colonist does what kinds of work, and in what priority order.</Work.description>
+  <Work.label>робота</Work.label>
+  <Work.description>Обрати, що саме буде робити кожен з ваших колоністів та позначте пріоритети.</Work.description>
 
-  <Restrict.label>restrict</Restrict.label>
-  <Restrict.description>Restrict colonists to certain activities at certain times of day, or to specific allowed areas.</Restrict.description>
+  <Restrict.label>обмеження</Restrict.label>
+  <Restrict.description>Задати колоністам обмеження на діяльність в певні години, пересування зонами тощо.</Restrict.description>
 
-  <Assign.label>assign</Assign.label>
-  <Assign.description>Configure what each colonist is allowed to wear, and how to react to nearby enemies.</Assign.description>
+  <Assign.label>призначення</Assign.label>
+  <Assign.description>Налаштувати тип одежі, реакцію на ворога та використання хімічних препаратів.</Assign.description>
 
-  <Animals.label>animals</Animals.label>
-  <Animals.description>Configure how the colony's tame animals should be treated.</Animals.description>
+  <Animals.label>тварини</Animals.label>
+  <Animals.description>Обрати поводження з кожною твариною, якою володіє ваше поселення.</Animals.description>
 
-  <Research.label>research</Research.label>
-  <Research.description>Examine and decide on research projects.</Research.description>
+  <Research.label>дослідження</Research.label>
+  <Research.description>Продивитися вже вивчені та призначити нові дослідницькі проекти.</Research.description>
 
-  <World.label>world</World.label>
-  <World.description>Examine the world map.</World.description>
+  <World.label>світ</World.label>
+  <World.description>Оглянути мапу світу.</World.description>
 
-  <History.label>history</History.label>
-  <History.description>Review records of the colony's history.</History.description>
+  <History.label>історія</History.label>
+  <History.description>Проглянути усі записи поселення.</History.description>
 
-  <Factions.label>factions</Factions.label>
-  <Factions.description>Review the factions known to the colony and their relationships.</Factions.description>
+  <Factions.label>фракції</Factions.label>
+  <Factions.description>Оглянути інші фракції, та їхнє відношення до вас.</Factions.description>
 
-  <Menu.label>menu</Menu.label>
-  <Menu.description>Change options, save, load, or quit the game.</Menu.description>
+  <Menu.label>меню</Menu.label>
+  <Menu.description>Змінити налаштування: зберегти, завантажити або вийти з гри.</Menu.description>
 
 
 </LanguageData>
