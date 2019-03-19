@@ -3,68 +3,68 @@
 
   <!-- Install natural parts -->
 
-  <InstallNaturalKidney.label>install kidney</InstallNaturalKidney.label>
-  <InstallNaturalKidney.description>Installs kidney.</InstallNaturalKidney.description>
-  <InstallNaturalKidney.jobString>Installing kidney.</InstallNaturalKidney.jobString>
+  <InstallNaturalKidney.label>імплантація нирки</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>Встановлення нової нирки.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>Імплантує нирку.</InstallNaturalKidney.jobString>
 
-  <InstallNaturalLiver.label>install liver</InstallNaturalLiver.label>
-  <InstallNaturalLiver.description>Installs liver.</InstallNaturalLiver.description>
-  <InstallNaturalLiver.jobString>Installing liver.</InstallNaturalLiver.jobString>
+  <InstallNaturalLiver.label>імплантація печінки</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Встановлення нової печінки.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Імплантує печінку.</InstallNaturalLiver.jobString>
 
-  <InstallNaturalLung.label>install lung</InstallNaturalLung.label>
-  <InstallNaturalLung.description>Installs lung.</InstallNaturalLung.description>
-  <InstallNaturalLung.jobString>Installing lung.</InstallNaturalLung.jobString>
+  <InstallNaturalLung.label>імплантація легенів</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Встановлення нових легенів.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Імплантує легені.</InstallNaturalLung.jobString>
 
-  <InstallNaturalHeart.label>install heart</InstallNaturalHeart.label>
-  <InstallNaturalHeart.description>Installs heart.</InstallNaturalHeart.description>
-  <InstallNaturalHeart.jobString>Installing heart.</InstallNaturalHeart.jobString>
+  <InstallNaturalHeart.label>імплантація серця</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>Встановлення нового серця.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Імплантує серце.</InstallNaturalHeart.jobString>
 
 
   <!-- Install artificial parts -->
 
-  <InstallPegLeg.label>install peg leg</InstallPegLeg.label>
-  <InstallPegLeg.description>Installs peg leg.</InstallPegLeg.description>
-  <InstallPegLeg.jobString>Installing peg leg.</InstallPegLeg.jobString>
+  <InstallPegLeg.label>встановлення дерев'яної ноги</InstallPegLeg.label>
+  <InstallPegLeg.description>Встановлення дерев'яного протезу ноги.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Встановлює дерев'яну ногу.</InstallPegLeg.jobString>
 
-  <InstallDenture.label>install denture</InstallDenture.label>
-  <InstallDenture.description>Installs denture.</InstallDenture.description>
-  <InstallDenture.jobString>Installing denture.</InstallDenture.jobString>
+  <InstallDenture.label>встановлення зубного протезу</InstallDenture.label>
+  <InstallDenture.description>Встановлення зубного протезу.</InstallDenture.description>
+  <InstallDenture.jobString>Встановлює зубний протез.</InstallDenture.jobString>
 
-  <InstallSimpleProstheticLeg.label>install simple prosthetic leg</InstallSimpleProstheticLeg.label>
-  <InstallSimpleProstheticLeg.description>Installs simple prosthetic leg.</InstallSimpleProstheticLeg.description>
-  <InstallSimpleProstheticLeg.jobString>Installing simple prosthetic leg.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticLeg.label>встановлення простого протезу ноги</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Встановлення простого протезу ноги.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Встановлює простий протез ноги.</InstallSimpleProstheticLeg.jobString>
 
-  <InstallSimpleProstheticArm.label>install simple prosthetic arm</InstallSimpleProstheticArm.label>
-  <InstallSimpleProstheticArm.description>Installs simple prosthetic arm.</InstallSimpleProstheticArm.description>
-  <InstallSimpleProstheticArm.jobString>Installing simple prosthetic arm.</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticArm.label>встановлення простого протезу руки</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Встановлення простого протезу руки.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Встановлює новий протез руки.</InstallSimpleProstheticArm.jobString>
 
-  <InstallBionicArm.label>install bionic arm</InstallBionicArm.label>
-  <InstallBionicArm.description>Installs bionic arm.</InstallBionicArm.description>
-  <InstallBionicArm.jobString>Installing bionic arm.</InstallBionicArm.jobString>
+  <InstallBionicArm.label>встанолення біонічної руки</InstallBionicArm.label>
+  <InstallBionicArm.description>Встановлення біонічної руки.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>Встановлює біонічну руку.</InstallBionicArm.jobString>
 
-  <InstallBionicLeg.label>install bionic leg</InstallBionicLeg.label>
-  <InstallBionicLeg.description>Installs bionic leg.</InstallBionicLeg.description>
-  <InstallBionicLeg.jobString>Installing bionic leg.</InstallBionicLeg.jobString>
+  <InstallBionicLeg.label>встанолення біонічної ноги</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Встановлення біонічної ноги.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>Встановлює біонічну ногу.</InstallBionicLeg.jobString>
 
-  <InstallPowerClaw.label>install power claw</InstallPowerClaw.label>
-  <InstallPowerClaw.description>Installs power claw.</InstallPowerClaw.description>
-  <InstallPowerClaw.jobString>Installing power claw.</InstallPowerClaw.jobString>
+  <InstallPowerClaw.label>встановлення силового крюка</InstallPowerClaw.label>
+  <InstallPowerClaw.description>Встановлення силового крюка.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>Встановлює силовий крюк.</InstallPowerClaw.jobString>
 
-  <InstallScytherBlade.label>install scyther blade</InstallScytherBlade.label>
-  <InstallScytherBlade.description>Installs scyther blade.</InstallScytherBlade.description>
-  <InstallScytherBlade.jobString>Installing scyther blade.</InstallScytherBlade.jobString>
+  <InstallScytherBlade.label>встановлення леза косаря</InstallScytherBlade.label>
+  <InstallScytherBlade.description>Встановлення леза косаря.</InstallScytherBlade.description>
+  <InstallScytherBlade.jobString>Встановлює лезо косаря.</InstallScytherBlade.jobString>
 
-  <InstallBionicEye.label>install bionic eye</InstallBionicEye.label>
-  <InstallBionicEye.description>Installs bionic eye.</InstallBionicEye.description>
-  <InstallBionicEye.jobString>Installing bionic eye.</InstallBionicEye.jobString>
+  <InstallBionicEye.label>вживлення біонічного ока</InstallBionicEye.label>
+  <InstallBionicEye.description>Вживлення біонічного ока.</InstallBionicEye.description>
+  <InstallBionicEye.jobString>Вживлює біонічне око.</InstallBionicEye.jobString>
 
-  <InstallJoywire.label>install joywire</InstallJoywire.label>
-  <InstallJoywire.description>Installs joywire.</InstallJoywire.description>
-  <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
+  <InstallJoywire.label>встановлення "чипу насолоди"</InstallJoywire.label>
+  <InstallJoywire.description>Встановлення "чипу насолоди".</InstallJoywire.description>
+  <InstallJoywire.jobString>Встановлює "чип насолоди".</InstallJoywire.jobString>
 
-  <InstallPainstopper.label>install painstopper</InstallPainstopper.label>
-  <InstallPainstopper.description>Installs painstopper.</InstallPainstopper.description>
-  <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
+  <InstallPainstopper.label>встановлення знеболювального чипу</InstallPainstopper.label>
+  <InstallPainstopper.description>Встановлення знеболювального чипу.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Встановлює знеболювальний чип.</InstallPainstopper.jobString>
 
 
 </LanguageData>
