@@ -3,32 +3,32 @@
 
   <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
 
-  <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
-  <GroundPenetratingScanner.description>Allows you to build ground-penetrating scanners that can detect drillable resources deep under the surface.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.label>глибинні сканери</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>Дозволяє створювати сканери, які здатні знаходити корисні копалини глибоко під землею.</GroundPenetratingScanner.description>
 
-  <DeepDrilling.label>deep drilling</DeepDrilling.label>
-  <DeepDrilling.description>Allows you to build deep drills for extracting resources from deep underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>
+  <DeepDrilling.label>глибинне буріння</DeepDrilling.label>
+  <DeepDrilling.description>Дозволяє будувати глибинні бурові установки для видобування ресурсів глибоко під землею. Все, що вам необхідно це наземний сканер, щоби знайти ресурси.</DeepDrilling.description>
 
-  <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
-  <VitalsMonitor.description>Allows colonists to build vitals monitors which improve medical care when placed next to hospital beds.</VitalsMonitor.description>
+  <VitalsMonitor.label>монітор стану здоров'я</VitalsMonitor.label>
+  <VitalsMonitor.description>Дозволяє колоністам будувати пристрої, які полегшують медичну допомогу, коли розміщені поряд з лікарняним ліжком.</VitalsMonitor.description>
 
-  <ComponentAssembly.label>component assembly</ComponentAssembly.label>
-  <ComponentAssembly.description>Allows you to build the Component Assembly Bench, where colonists can make components from simple materials.</ComponentAssembly.description>
+  <ComponentAssembly.label>створення компонентів</ComponentAssembly.label>
+  <ComponentAssembly.description>Дозволяє колоністам будувати Верстак Збору Компонентів на яких колоністи можуть змайструвати компоненти з простих матеріалів.</ComponentAssembly.description>
 
-  <MultibarrelWeapons.label>multibarrel weapons</MultibarrelWeapons.label>
-  <MultibarrelWeapons.description>Allows you to build miniguns.</MultibarrelWeapons.description>
+  <MultibarrelWeapons.label>багатоствольна зброя</MultibarrelWeapons.label>
+  <MultibarrelWeapons.description>Дозволяє змайструвати мініґани.</MultibarrelWeapons.description>
 
-  <Cryptosleep.label>cryptosleep casket</Cryptosleep.label>
-  <Cryptosleep.description>Allows colonists to construct cryptosleep caskets, which can put living beings in a state of suspended animation.</Cryptosleep.description>
+  <Cryptosleep.label>капсула криптосну</Cryptosleep.label>
+  <Cryptosleep.description>Дозволяє колоністам створювати капсули криптосу, в яких живі істоти знаходяться в стані анабіозу.</Cryptosleep.description>
 
-  <PoweredArmor.label>powered armor</PoweredArmor.label>
-  <PoweredArmor.description>Neuro-memetic robotics and advanced plasteel weaving technologies allow you to build the power armor and power armor helmets.</PoweredArmor.description>
+  <PoweredArmor.label>силова броня</PoweredArmor.label>
+  <PoweredArmor.description>Робототехніка на основі нейронних систем та новітні технології в галузі створення речей із плазметалу дозволяють вам створювати силову броню та шоломи силової броні.</PoweredArmor.description>
 
-  <ShieldBelt.label>shield belt</ShieldBelt.label>
-  <ShieldBelt.description>Momentum-repulsion field technology allows you to build shield belts, which block ranged attacks coming in or going out.</ShieldBelt.description>
+  <ShieldBelt.label>поясні енергощити</ShieldBelt.label>
+  <ShieldBelt.description>Відкриває доступ до імпульсно-репульсорної технології, яка дозволяє створювати мініатюрні генератори захисного поля, що вбудовуються в пояс. Захищає від дальнобійних атак, які виходять до і з колоніста.</ShieldBelt.description>
 
-  <ChargedShot.label>charged shot</ChargedShot.label>
-  <ChargedShot.description>Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.</ChargedShot.description>
+  <ChargedShot.label>енергетична зброя</ChargedShot.label>
+  <ChargedShot.description>Розуміння таємниць імпульсно-зарядних енергетичних набоїв. Дозволяє створювати імпульсні гвинтівки.</ChargedShot.description>
 
 
 </LanguageData>
