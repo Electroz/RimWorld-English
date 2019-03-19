@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Nuzzle.reportString>nuzzling TargetA.</Nuzzle.reportString>
-  <Mate.reportString>mating with TargetA.</Mate.reportString>
-  <LayEgg.reportString>laying egg.</LayEgg.reportString>
-  <PredatorHunt.reportString>hunting TargetA.</PredatorHunt.reportString>
-  <Maintain.reportString>maintaining TargetA.</Maintain.reportString>
+  <Nuzzle.reportString>обнюхує TargetA.</Nuzzle.reportString>
+  <Mate.reportString>парується з TargetA.</Mate.reportString>
+  <LayEgg.reportString>відкладає яйце.</LayEgg.reportString>
+  <PredatorHunt.reportString>полює на TargetA.</PredatorHunt.reportString>
+  <Maintain.reportString>викормлює TargetA.</Maintain.reportString>
 
 
 </LanguageData>
