@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Slaughter.headerTip>Slaughter</Slaughter.headerTip>
-  <FollowDrafted.headerTip>Follow master while the master is drafted.</FollowDrafted.headerTip>
-  <FollowFieldwork.headerTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldwork.headerTip>
+  <Slaughter.headerTip>М'ясник</Slaughter.headerTip>
+  <FollowDrafted.headerTip>Дотримуйтесь господаря, поки він в режимі бою.</FollowDrafted.headerTip>
+  <FollowFieldwork.headerTip>Дотримуйтеся господаря, поки він працює у полі (полювання або приручення тварин).</FollowFieldwork.headerTip>
 
 
 </LanguageData>
