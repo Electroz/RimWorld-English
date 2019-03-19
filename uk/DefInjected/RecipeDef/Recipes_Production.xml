@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeStoneBlocksAny.label>make any stone blocks</MakeStoneBlocksAny.label>
-  <MakeStoneBlocksAny.description>Cuts rock chunks into usable stone blocks.</MakeStoneBlocksAny.description>
-  <MakeStoneBlocksAny.jobString>Cutting stone blocks from chunk.</MakeStoneBlocksAny.jobString>
+  <MakeStoneBlocksAny.label>зробити кам'яні блоки з будь-чого</MakeStoneBlocksAny.label>
+  <MakeStoneBlocksAny.description>Обтесати кам'яні уламки в блоки.</MakeStoneBlocksAny.description>
+  <MakeStoneBlocksAny.jobString>Обтесує кам'яні уламки.</MakeStoneBlocksAny.jobString>
 
-  <ExtractMetalFromSlag.label>smelt metal from slag</ExtractMetalFromSlag.label>
-  <ExtractMetalFromSlag.description>Use heat and strong electromagnets to separate useful metal from slag chunks.</ExtractMetalFromSlag.description>
-  <ExtractMetalFromSlag.jobString>Smelting metal from slag.</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.label>виплавити метал з шлаку</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>Використати тепло і сильний електромагніт, щоб розділити метал і шлак.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>Виплавляє метал з шлаку.</ExtractMetalFromSlag.jobString>
 
-  <SmeltWeapon.label>smelt weapon</SmeltWeapon.label>
-  <SmeltWeapon.description>Use heat and strong electromagnets to break down weapons into useful resources.</SmeltWeapon.description>
-  <SmeltWeapon.jobString>Smelting weapon.</SmeltWeapon.jobString>
+  <SmeltWeapon.label>переплавити зброю</SmeltWeapon.label>
+  <SmeltWeapon.description>Використати тепло і сильні електромагніти, щоб переробити зброю в корисні ресурси.</SmeltWeapon.description>
+  <SmeltWeapon.jobString>Переплавлює зброю.</SmeltWeapon.jobString>
 
-  <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
-  <DestroyWeapon.description>Use heat to destroy unwanted weapons. Faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
-  <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
+  <DestroyWeapon.label>знищити зброю</DestroyWeapon.label>
+  <DestroyWeapon.description>Використати тепло, щоб знищити непотрібну зброю. Швидше ніж переплавка і працює на всіх предметах, але не дає ресурсів.</DestroyWeapon.description>
+  <DestroyWeapon.jobString>Знищує зброю.</DestroyWeapon.jobString>
 
-  <MakeChemfuelFromWood.label>make chemfuel from wood</MakeChemfuelFromWood.label>
-  <MakeChemfuelFromWood.description>Make a batch of chemfuel by gasifying wood logs.</MakeChemfuelFromWood.description>
-  <MakeChemfuelFromWood.jobString>Refining chemfuel from wood.</MakeChemfuelFromWood.jobString>
+  <MakeChemfuelFromWood.label>зробити хімічне паливо з дерева</MakeChemfuelFromWood.label>
+  <MakeChemfuelFromWood.description>Зробити партію хімічного палива за допомогою газифікації деревини.</MakeChemfuelFromWood.description>
+  <MakeChemfuelFromWood.jobString>Створює хімічне паливо з дерева.</MakeChemfuelFromWood.jobString>
 
-  <MakeChemfuelFromOrganics.label>make chemfuel from organics</MakeChemfuelFromOrganics.label>
-  <MakeChemfuelFromOrganics.description>Make a batch of chemfuel by extracting biofuel from organic feedstocks.</MakeChemfuelFromOrganics.description>
-  <MakeChemfuelFromOrganics.jobString>Refining chemfuel from organics.</MakeChemfuelFromOrganics.jobString>
+  <MakeChemfuelFromOrganics.label>зробити хімічне паливо з органіки</MakeChemfuelFromOrganics.label>
+  <MakeChemfuelFromOrganics.description>Зробити партію хімічного палива шляхом отримання біопалива з органічної сировини.</MakeChemfuelFromOrganics.description>
+  <MakeChemfuelFromOrganics.jobString>Створює хімічне паливо з органіки.</MakeChemfuelFromOrganics.jobString>
 
-  <MakeComponent.label>make component</MakeComponent.label>
-  <MakeComponent.description>Make a component.</MakeComponent.description>
-  <MakeComponent.jobString>Making component.</MakeComponent.jobString>
+  <MakeComponent.label>зробити компонент</MakeComponent.label>
+  <MakeComponent.description>Зробити компонент.</MakeComponent.description>
+  <MakeComponent.jobString>Створює компонент.</MakeComponent.jobString>
 
-  <MakeAdvancedComponent.label>make advanced component</MakeAdvancedComponent.label>
-  <MakeAdvancedComponent.description>Make an advanced component.</MakeAdvancedComponent.description>
-  <MakeAdvancedComponent.jobString>Making advanced component.</MakeAdvancedComponent.jobString>
+  <MakeAdvancedComponent.label>зробити покращений компонент</MakeAdvancedComponent.label>
+  <MakeAdvancedComponent.description>Зробити покращений компонент.</MakeAdvancedComponent.description>
+  <MakeAdvancedComponent.jobString>Створює покращений компонент.</MakeAdvancedComponent.jobString>
 
 
 </LanguageData>
