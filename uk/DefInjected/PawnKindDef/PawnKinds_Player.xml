@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Colonist.label>colonist</Colonist.label>
-  <Colonist.labelPlural>colonists</Colonist.labelPlural>
+  <Colonist.label>поселенець</Colonist.label>
+  <Colonist.labelPlural>поселенці</Colonist.labelPlural>
 
-  <Tribesperson.label>member</Tribesperson.label>
-  <Tribesperson.labelPlural>members</Tribesperson.labelPlural>
+  <Tribesperson.label>абориген</Tribesperson.label>
+  <Tribesperson.labelPlural>аборигени</Tribesperson.labelPlural>
 
 
 </LanguageData>
