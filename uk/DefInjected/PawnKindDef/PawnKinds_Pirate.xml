@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Drifter.label>drifter</Drifter.label>
-  <Drifter.labelPlural>drifters</Drifter.labelPlural>
+  <Drifter.label>пройдисвіт</Drifter.label>
+  <Drifter.labelPlural>пройдисвіти</Drifter.labelPlural>
 
-  <Scavenger.label>scavenger</Scavenger.label>
-  <Scavenger.labelPlural>scavengers</Scavenger.labelPlural>
+  <Scavenger.label>падальщик</Scavenger.label>
+  <Scavenger.labelPlural>падальщики</Scavenger.labelPlural>
 
-  <Thrasher.label>thrasher</Thrasher.label>
-  <Thrasher.labelPlural>thrashers</Thrasher.labelPlural>
+  <Thrasher.label>сміттяр</Thrasher.label>
+  <Thrasher.labelPlural>сміттяри</Thrasher.labelPlural>
 
-  <Pirate.label>pirate</Pirate.label>
-  <Pirate.labelPlural>pirates</Pirate.labelPlural>
+  <Pirate.label>пірат</Pirate.label>
+  <Pirate.labelPlural>пірати</Pirate.labelPlural>
 
 
 </LanguageData>
