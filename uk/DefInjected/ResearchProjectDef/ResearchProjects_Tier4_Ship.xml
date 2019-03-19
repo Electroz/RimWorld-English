@@ -3,23 +3,23 @@
 
   <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
 
-  <ShipBasics.label>shipbuilding basics</ShipBasics.label>
-  <ShipBasics.description>Allows you to start researching more advanced shipbuilding technologies and eventually build a ship to escape the planet.</ShipBasics.description>
+  <ShipBasics.label>основи кораблебудування</ShipBasics.label>
+  <ShipBasics.description>Дозволяє почати вивчення більш складних корабельних технологій, і, згодом, побудувати корабель, щоб залишити цю планету.</ShipBasics.description>
 
-  <ShipCryptosleep.label>ship cryptosleep caskets</ShipCryptosleep.label>
-  <ShipCryptosleep.description>Allows you to construct ship cryptosleep caskets for transporting cryptosleeping colonists between the stars.</ShipCryptosleep.description>
+  <ShipCryptosleep.label>капсули криптосну</ShipCryptosleep.label>
+  <ShipCryptosleep.description>Дозволяє побудувати корабельні капсули криптосну для транспортування колоністів між зірками.</ShipCryptosleep.description>
 
-  <ShipReactor.label>ship antimatter reactor</ShipReactor.label>
-  <ShipReactor.description>Allows you to use an antimatter containment core to build a reactor to power a ship.</ShipReactor.description>
+  <ShipReactor.label>корабельний реактор</ShipReactor.label>
+  <ShipReactor.description>Дозволяє використовувати ядро утримання антиматерії, щоб побудувати реактор антиматерії для забезпечення корабля енергією.</ShipReactor.description>
 
-  <ShipEngine.label>ship antimatter propulsion</ShipEngine.label>
-  <ShipEngine.description>Allows you to construct an engine for a ship.</ShipEngine.description>
+  <ShipEngine.label>силова установка</ShipEngine.label>
+  <ShipEngine.description>Дозволяє використовувати ядро утримання антиматерії, щоб побудувати двигун антиматерії для корабля.</ShipEngine.description>
 
-  <ShipComputerCore.label>ship computer core</ShipComputerCore.label>
-  <ShipComputerCore.description>Allows coercing an existing AI persona into a usable AI computer core for ship guidance.</ShipComputerCore.description>
+  <ShipComputerCore.label>корабельний комп'ютер</ShipComputerCore.label>
+  <ShipComputerCore.description>Дозволяє примусово переробити існуюче ядро ШІ в зручне ядро комп'ютерного ШІ корабельного навігатора.</ShipComputerCore.description>
 
-  <ShipSensorCluster.label>ship sensor cluster</ShipSensorCluster.label>
-  <ShipSensorCluster.description>Allows you to construct long-range sensors for a ship.</ShipSensorCluster.description>
+  <ShipSensorCluster.label>корабельний сканер</ShipSensorCluster.label>
+  <ShipSensorCluster.description>Дозволяє створення сенсорів дальньої дії для корабля.</ShipSensorCluster.description>
 
 
 </LanguageData>
